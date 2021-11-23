@@ -1,0 +1,12 @@
+/* 
+  Labels.strings
+  ForLoop
+
+  Created by Blain Hamon on 11/22/21.
+  
+*/
+"no-pony" = "(not chosen yet)";
+"your-name %@" = "Your pony is: %@";
+"new-name" = "Choose a new pony";
+"credits" = "Pony source";
+"ponyurl" = "https://mlp.fandom.com/wiki/List_of_ponies";
